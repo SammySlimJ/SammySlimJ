@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Lab]([https://github.com/SammySlimJ/LABURL](https://github.com/SammySlimJ/ActiveDirectoryLab/blob/main/README.md))
+  - [Active Directory Lab](https://github.com/SammySlimJ/ActiveDirectoryLab/blob/main/README.md))
 
 <h2>📺 Popular YouTube Videos</h2>
 
